@@ -1,0 +1,10 @@
+[package]
+name = "nyancat"
+version = "0.1.0"
+edition = "2024"
+
+[lints.clippy]
+pedantic = { level = "warn", priority = -1 }
+nursery = { level = "warn", priority = -1 }
+
+[dependencies]
