@@ -1,0 +1,501 @@
+--------- beginning of main
+10-01 12:10:36.746 14344 14344 I Finsky  : [2] SCH: jobFinished: 10-71. TimeElapsed: 8ms.
+10-01 12:10:36.746 14344 14344 I Finsky  : [2] WM::SCH: Logging work end for 10-71
+10-01 12:10:36.747 14344 14385 I Finsky  : [94] AIM: AppInfoManager-Perf > getInstalledAppsFromPackageStateRepository > packageNames ready: Installed: 426 + Unowned: 0
+10-01 12:10:36.750 14344 14344 I Finsky  : [2] SCH: Job 10-73 starting
+10-01 12:10:36.751 14344 14344 I Finsky  : [2] WM::SCH: Logging work start for 10-73
+10-01 12:10:36.756  3859  3859 D GservicesProvider: Update with URI content://com.google.android.gsf.gservices/override
+10-01 12:10:36.767 14344 14344 I Finsky  : [2] SCH: Job 10-77 starting
+10-01 12:10:36.769 14344 14344 I Finsky  : [2] WM::SCH: Logging work start for 10-77
+10-01 12:10:36.770 14344 14344 I Finsky  : [2] SCH: jobFinished: 10-77. TimeElapsed: 2ms.
+10-01 12:10:36.770 14344 14344 I Finsky  : [2] WM::SCH: Logging work end for 10-77
+10-01 12:10:36.779 14344 14344 I Finsky  : [2] SCH: Job 10-81 starting
+10-01 12:10:36.794 14344 14344 I Finsky  : [2] WM::SCH: Logging work start for 10-81
+10-01 12:10:36.827 14344 14385 I Finsky  : [94] SCH: jobFinished: 10-81. TimeElapsed: 38ms.
+10-01 12:10:36.828 14344 14385 I Finsky  : [94] WM::SCH: Logging work end for 10-81
+10-01 12:10:36.856 14344 14376 I Finsky  : [89] SCH: jobFinished: 10-73. TimeElapsed: 105ms.
+10-01 12:10:36.857 14344 14376 I Finsky  : [89] WM::SCH: Logging work end for 10-73
+10-01 12:10:36.858  3356  3821 E FileUtils: err open mi_exception_log errno=2
+10-01 12:10:36.858  3356  3821 E FileUtils: err write to mi_exception_log
+10-01 12:10:36.862  3356  3927 D WM-Processor: Processor cancelling a37cfe75-eb8b-4757-bc0a-bcf4f2dfe8d7
+10-01 12:10:36.862  3356  3927 D WM-Processor: WorkerWrapper could not be found for a37cfe75-eb8b-4757-bc0a-bcf4f2dfe8d7
+10-01 12:10:36.862 13747 14146 D CompatibilityChangeReporter: Compat change id reported: 150939131; UID 10202; state: ENABLED
+10-01 12:10:36.863 14344 14352 D CompatibilityChangeReporter: Compat change id reported: 150939131; UID 10189; state: ENABLED
+10-01 12:10:36.866  1515  1895 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 2
+10-01 12:10:36.866  1515  1895 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 3
+10-01 12:10:36.866  1515  1895 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 2
+10-01 12:10:36.866  1515  1895 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 3
+10-01 12:10:36.869  3356  3927 D WM-GreedyScheduler: Cancelling work ID a37cfe75-eb8b-4757-bc0a-bcf4f2dfe8d7
+10-01 12:10:36.873 13798 14145 D CompatibilityChangeReporter: Compat change id reported: 150939131; UID 10181; state: ENABLED
+10-01 12:10:36.874 14531 14541 D CompatibilityChangeReporter: Compat change id reported: 150939131; UID 10189; state: ENABLED
+10-01 12:10:36.876 13995 14087 D CompatibilityChangeReporter: Compat change id reported: 150939131; UID 10187; state: ENABLED
+10-01 12:10:36.876 13944 14213 D CompatibilityChangeReporter: Compat change id reported: 150939131; UID 10188; state: ENABLED
+10-01 12:10:36.876 14703 14996 D CompatibilityChangeReporter: Compat change id reported: 150939131; UID 10189; state: ENABLED
+10-01 12:10:36.876 14866 14878 D CompatibilityChangeReporter: Compat change id reported: 150939131; UID 10189; state: ENABLED
+10-01 12:10:36.878  7899 10296 D CompatibilityChangeReporter: Compat change id reported: 150939131; UID 10192; state: ENABLED
+10-01 12:10:36.878  3859  3859 I GservicesProvider: override update completed
+10-01 12:10:36.879  3356  3927 D WM-SystemJobScheduler: Scheduling work ID 5e555a70-bbdc-4a26-a708-2047c148ef86Job ID 33605
+10-01 12:10:36.882  1515  1895 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 2
+10-01 12:10:36.882  1515  1895 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 3
+10-01 12:10:36.883  3859  3859 E FileUtils: err write to mi_exception_log
+10-01 12:10:36.884  1515  1895 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 2
+10-01 12:10:36.884  1515  1895 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 3
+10-01 12:10:36.885 14344 14344 I Finsky  : [2] SCH: Job 10-82 starting
+10-01 12:10:36.885 14344 14344 I Finsky  : [2] WM::SCH: Logging work start for 10-82
+10-01 12:10:36.889  3029  3029 W ChimeraProxyRslvr: No registered Chimera impl for com.google.android.gms.backup.GmsBackupStatusChangeReceiver
+10-01 12:10:36.889  3029  3029 E ChimeraRcvrProxy: com.google.android.gms.backup.GmsBackupStatusChangeReceiver dropping broadcast com.google.gservices.intent.action.GSERVICES_CHANGED
+10-01 12:10:36.910 14344 14379 E FileUtils: err open mi_exception_log errno=2
+10-01 12:10:36.910 14344 14379 E FileUtils: err write to mi_exception_log
+10-01 12:10:36.917  3356  3927 D WM-GreedyScheduler: Ignoring {WorkSpec: e1a3a2c7-a8a8-4066-8123-f7d98e1c618d}. Requires device idle.
+10-01 12:10:36.917  3356  3927 D WM-GreedyScheduler: Ignoring {WorkSpec: 408bee63-6007-4632-9b59-a5e97f5f1f2d}. Requires device idle.
+10-01 12:10:36.923 14344 14387 E FileUtils: err open mi_exception_log errno=2
+10-01 12:10:36.923 14344 14387 E FileUtils: err write to mi_exception_log
+10-01 12:10:36.927  2426 15462 I Auth    : [AuthManaged, PasswordComplexityHelperImpl] Updating password complexity components state.
+10-01 12:10:36.929  2426 15462 I Auth    : [AuthManaged, PasswordComplexityHelperImpl] Disabling com.google.android.gms.auth.managed.admin.DeviceAdminReceiver
+10-01 12:10:36.933  2426 15462 I Auth    : [AuthManaged, PasswordComplexityHelperImpl] Disabling com.google.android.gms.auth.managed.ui.SetNewPasswordActivity
+--------- beginning of system
+10-01 12:10:36.934  1515  3439 D PackageManager: set app  component=ComponentInfo{com.google.android.gms/com.google.android.gms.auth.managed.ui.SetNewPasswordActivity} enabled state: 2 from null,uid=10193,pid=2426
+10-01 12:10:36.941  2426 15147 I AlarmManager: setExactAndAllowWhileIdle [name: GCM_CONN_ALARM type: 2 triggerAtMillis: 270138]
+10-01 12:10:36.942  1515  1543 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 2
+10-01 12:10:36.942  1515  1543 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 3
+10-01 12:10:36.942  3029 15450 I GmsModuleFndr: Beginning GMS chimera module scan
+10-01 12:10:36.943 14344 14344 E FileUtils: err write to mi_exception_log
+10-01 12:10:36.945 14344 14344 I Finsky  : [2] SCH: Job 10-87 starting
+10-01 12:10:36.946 14344 14344 I Finsky  : [2] WM::SCH: Logging work start for 10-87
+10-01 12:10:36.947 14344 14344 I Finsky  : [2] [PLUS] Hygiene sync job starting...
+10-01 12:10:36.950 14344 14376 I Finsky  : [89] [PLUS] Adding payload case=22
+10-01 12:10:36.956  3029 15450 I ModuleSetResolution: Computing pending module set with APKs: [[AdsFdrDynamite.integ:250505301100000], [Antifingerprinting.optional:250832100000], [Appsearch.optional:250832100400], [BrellaDynamite.optional:250832100400], [Fastpair.optional:250832100000], [Games.optional:250832100000], [MapsCoreDynamite.integ:245125201100400], [MlkitDocscan.optional:250832100400], [MlkitDocscanStain.optional:250832100400], [MlkitDocscanUi.optional:250832100400], [MlkitOcrCommon.optional:250832100400], [NnapidriverArmMaliDynamite.integ:230700000100400], [PlayCloudSearch.optional:250832100000], [SidecarAps.integ:213016903100400], [TfliteDynamiteDynamite.integ:243930801100400], [TfliteGpuDynamiteDynamite.integ:243930801100400], [VisionBarcode.optional:250832100400], [VisionCustomIca.optional:250832100400], [VisionFace.optional:250832100400], [VisionIca.optional:250832100400], [VisionOcr.optional:250832100000], [Wasmlibs.optional:250832100400], [AdsFdrDynamite.integ:244410203100000], [PgsReleaseUnwrapped:517320240020400], [Cronetdynamite:250832190400], [Dynamiteloader:250832190000], [Dynamitemodulesa:250832190000], [Dynamitemodulesc:250832190000], [Googlecertificates:250832190000], [Mapsdynamite:250832190000], [Measurementdynamite:250832190000]]
+10-01 12:10:36.961  3029 15450 I ModuleSetResolution: Pending container module APKs: [[Antifingerprinting.optional:250832100000], [Appsearch.optional:250832100400], [BrellaDynamite.optional:250832100400], [Fastpair.optional:250832100000], [Games.optional:250832100000], [MapsCoreDynamite.integ:245125201100400], [MlkitDocscan.optional:250832100400], [MlkitDocscanStain.optional:250832100400], [MlkitDocscanUi.optional:250832100400], [MlkitOcrCommon.optional:250832100400], [PlayCloudSearch.optional:250832100000], [VisionBarcode.optional:250832100400], [VisionCustomIca.optional:250832100400], [VisionFace.optional:250832100400], [VisionIca.optional:250832100400], [VisionOcr.optional:250832100000], [Wasmlibs.optional:250832100400]]
+10-01 12:10:36.961  3029 15450 I ModuleSetResolution: Pending non-container module APKs: [[TfliteDynamiteDynamite.integ:243930801100400], [TfliteGpuDynamiteDynamite.integ:243930801100400], [AdsFdrDynamite.integ:250505301100000], [NnapidriverArmMaliDynamite.integ:230700000100400]]
+10-01 12:10:36.984  1515  2035 I SmartPower.com.miui.guardprovider/10117(10642): background->idle(3002ms) R(content provider start ContentProviderRecord{35e44c5 u0 com.miui.guardprovider/.GuardProvider}) adj=100.
+10-01 12:10:36.984  1515  2035 I SmartPower: com.miui.guardprovider/10117 state=inactive adj=100 proc size=1 move to idle content provider start ContentProviderRecord{35e44c5 u0 com.miui.guardprovider/.GuardProvider}
+10-01 12:10:37.017  1515  3439 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 2
+10-01 12:10:37.017  1515  3439 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 3
+10-01 12:10:37.017  1515  3439 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 2
+10-01 12:10:37.017  1515  3439 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 3
+10-01 12:10:37.055 13995 13995 I CarrierServices: [2] RcsAutoStartReceiver.a:218 RcsAutoStartReceiver triggered. Fetching RCS State. Action: com.google.gservices.intent.action.GSERVICES_CHANGED
+10-01 12:10:37.062  2426 15147 I GCoreUlr: DispatchingService ignoring Intent { act=android.net.wifi.WIFI_STATE_CHANGED flg=0x4000010 (has extras) } because ULR inactive
+10-01 12:10:37.063 13995 13995 I CarrierServices: [2] RcsStateFetcher.bindService:105 Migration binding to RcsMigrationService
+10-01 12:10:37.069 13995 13995 E FileUtils: err write to mi_exception_log
+10-01 12:10:37.070  1515  3439 I SmartPower.com.google.android.partnersetup/10185(4988): idle->background(44206ms) R(broadcast start Intent { act=com.google.gservices.intent.action.GSERVICES_CHANGED flg=0x1000010 cmp=com.google.android.partnersetup/.GservicesChangedReceiver }) adj=0.
+10-01 12:10:37.070  1515  1971 I MiuiNetworkPolicy: updateUidState uid = 10185, uidState = 11
+10-01 12:10:37.070  1515  2035 I SmartPower: com.google.android.partnersetup/10185 state=hibernation adj=0 proc size=1 move to background broadcast start Intent { act=com.google.gservices.intent.action.GSERVICES_CHANGED flg=0x1000010 cmp=com.google.android.partnersetup/.GservicesChangedReceiver }
+10-01 12:10:37.070  1515  2035 I SmartPower: com.google.android.partnersetup/10185 state=background adj=0 proc size=1 move to inactive broadcast start Intent { act=com.google.gservices.intent.action.GSERVICES_CHANGED flg=0x1000010 cmp=com.google.android.partnersetup/.GservicesChangedReceiver }
+10-01 12:10:37.067  2426  8923 E FileUtils: err open mi_exception_log errno=2
+10-01 12:10:37.071  2426  8923 E FileUtils: err write to mi_exception_log
+10-01 12:10:37.080  1515  6724 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 2
+10-01 12:10:37.080  1515  6724 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 3
+10-01 12:10:37.080  1515  6724 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 2
+10-01 12:10:37.080  1515  6724 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 3
+10-01 12:10:37.084  1515  6724 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 2
+10-01 12:10:37.084  1515  6724 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 3
+10-01 12:10:37.084  1515  6724 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 2
+10-01 12:10:37.084  1515  6724 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 3
+10-01 12:10:37.089  1515  3423 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 2
+10-01 12:10:37.089  1515  3423 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 3
+10-01 12:10:37.091  4097  4097 I BugleDataModel: RcsMigrationService: Returning RCS state provider.
+10-01 12:10:37.096  1515  3439 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 2
+10-01 12:10:37.096  1515  3439 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 3
+10-01 12:10:37.104  1515  1971 I MiuiNetworkPolicy: updateUidState uid = 10185, uidState = 19
+10-01 12:10:37.125  4097  4996 I RcsProvisioning: Failed to read config: no config found /data/user/0/com.google.android.apps.messaging/files/rcsconfig: open failed: ENOENT (No such file or directory)
+10-01 12:10:37.132 14344 14376 I Finsky  : [89] System was updated or GL extensions were already cached.
+10-01 12:10:37.148  4097  4996 W Bugle   : TelephonySubscriptionInfoAsOfQ: subscriberId is empty. Does TelephonyManager have necessary permissions? [CONTEXT ratelimit_period="1 MINUTES" sub_id=-1 skipped=11 ]
+10-01 12:10:37.148  4097  4996 W Bugle   : elax: 
+10-01 12:10:37.162  1515  1722 E FileUtils: err open mi_exception_log errno=2
+10-01 12:10:37.163  1515  1722 E FileUtils: err write to mi_exception_log
+10-01 12:10:37.163  2293  2293 D Launcher.Model: LauncherAppsCallback onPackageChanged|com.facebook.appmanager|UserHandle{0}
+10-01 12:10:37.164  2293  2429 D Launcher.Model: Got broadcast:Intent { act=android.intent.action.PACKAGE_CHANGED dat=package: (has extras) }
+10-01 12:10:37.168  2293  2429 D Launcher.AllAppsList: updatePackage, packageName=com.facebook.appmanager, loadMissing=false, user=UserHandle{0}, matchedSize=0
+10-01 12:10:37.169  2293  2429 D Launcher.Model: onReceiveBackground, mAllAppsList=add=[], remove=[], modified=[]
+10-01 12:10:37.183  1515  1913 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 2
+10-01 12:10:37.183  1515  1913 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 3
+10-01 12:10:37.185  1515  1515 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 2
+10-01 12:10:37.185  1515  1515 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 3
+10-01 12:10:37.193 14782 14782 I TrafficManageService: mina mRefreshDataUsageDailyReceiver
+10-01 12:10:37.194  1515  1971 I MiuiNetworkPolicy: updateUidState uid = 10185, uidState = 8
+10-01 12:10:37.194  2426 15147 I GCoreUlr: Unbound from all signal providers.
+10-01 12:10:37.196 14782 14886 D TrafficManageService-TrafficSimManager: getMonthDataUsageUsed: new_get = 0
+10-01 12:10:37.198 14782 14886 D TrafficManageService-TrafficSimManager: initTrafficStatusMonitorVariable: -1
+10-01 12:10:37.200  1515  1515 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 2
+10-01 12:10:37.200  1515  1515 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 3
+10-01 12:10:37.207 14782 15497 I CloudDataUpdateService: updateNoKillPkgList start
+10-01 12:10:37.208 14782 14886 D TrafficManageService-TrafficSimManager: getMonthDataUsageUsed: new_get = 0
+10-01 12:10:37.209 14782 14886 D TrafficManageService-TrafficSimManager: initTrafficStatusMonitorVariable: -1
+10-01 12:10:37.259  2426  2426 I GCoreUlr: Unbound from all signal providers.
+10-01 12:10:37.259  2426  2426 I GCoreUlr: Stopping handler for UlrDispSvcFast
+10-01 12:10:37.272 14344 14376 I Finsky  : [89] Initializing FirebaseApp
+10-01 12:10:37.284  3029 15450 W PackageParser: Unknown element under <manifest>: queries at /data/user_de/0/com.google.android.gms/app_chimera/m/000006a8/AdsDynamite.uncompressed.apk Binary XML file line #15
+10-01 12:10:37.294  1515  4771 D PackageManager: set app  package: com.android.vending enabled state: 1 from com.google.android.partnersetup,uid=10185,pid=4988
+10-01 12:10:37.295  3029 15450 W PackageParser: Unknown element under <manifest>: queries at /data/user_de/0/com.google.android.gms/app_chimera/m/000006aa/dl-AdsFdrDynamite.integ_250505301100000.apk Binary XML file line #15
+10-01 12:10:37.301  1515  1971 I MiuiNetworkPolicy: updateUidState uid = 10185, uidState = 10
+10-01 12:10:37.303  1515  1971 I MiuiNetworkPolicy: updateUidState uid = 10185, uidState = 8
+10-01 12:10:37.312 14782 15497 D TrafficStats: tagSocket(97) with statsTag=0xffffffff, statsUid=-1
+10-01 12:10:37.354 14344 14376 I FirebaseApp: Device unlocked: initializing all Firebase APIs for app [DEFAULT]
+10-01 12:10:37.366  4097  4996 I RcsProvisioning: Failed to read config: no config found /data/user/0/com.google.android.apps.messaging/files/rcsconfig: open failed: ENOENT (No such file or directory)
+10-01 12:10:37.379 14344 14387 E FileUtils: err open mi_exception_log errno=2
+10-01 12:10:37.379 14344 14387 E FileUtils: err write to mi_exception_log
+10-01 12:10:37.385 14344 14372 D libMEOW : meow new tls: 0xb400007cd178be00
+10-01 12:10:37.391 14344 14372 D libMEOW : meow reload base cfg path: na
+10-01 12:10:37.391 14344 14372 D libMEOW : meow reload overlay cfg path: na
+10-01 12:10:37.389 14344 14344 W com.android.vending: type=1400 audit(0.0:1417): avc: denied { search } for comm=62674578656375746F72202330 name="mcd" dev="dm-41" ino=235 scontext=u:r:priv_app:s0:c512,c768 tcontext=u:object_r:mcd_data_file:s0 tclass=dir permissive=0 app=com.android.vending
+10-01 12:10:37.389 14344 14344 W com.android.vending: type=1400 audit(0.0:1418): avc: denied { search } for comm=62674578656375746F72202330 name="mcd" dev="dm-41" ino=235 scontext=u:r:priv_app:s0:c512,c768 tcontext=u:object_r:mcd_data_file:s0 tclass=dir permissive=0 app=com.android.vending
+10-01 12:10:37.394 14344 14372 W QT      : qt_process_init() called
+10-01 12:10:37.394 14344 14372 E QT      : [QT]file does not exist
+10-01 12:10:37.394 14344 14372 W QT      : Support!!
+10-01 12:10:37.401 14344 14372 D libMEOW : applied 1 plugins for [com.android.vending]:
+10-01 12:10:37.401 14344 14372 D libMEOW :   plugin 1: [libMEOW_gift.so]:
+10-01 12:10:37.440  3029 15450 I SyncIntentOperation: (REDACTED) Handling the intent: %s.
+10-01 12:10:37.461  3029 15450 I SyncManager: Executing syncInBackground [CONTEXT service_id=80 ]
+10-01 12:10:37.462  1515  4771 D PackageManager: set app  component=ComponentInfo{com.google.android.gms/com.google.android.gms.locationsharing.service.LocationSharingSettingInjectorService} enabled state: 1 from null,uid=10193,pid=3029
+10-01 12:10:37.469  1515  6724 D PackageManager: set app  component=ComponentInfo{com.google.android.gms/com.google.android.gms.matchstick.ui.EntryActivity} enabled state: 1 from null,uid=10193,pid=3029
+10-01 12:10:37.472  3029 15452 I MS_Utils: version of com.google.android.apps.maps = 1067963286
+10-01 12:10:37.472  1515  3488 D PackageManager: set app  component=ComponentInfo{com.google.android.gms/com.google.android.gms.matchstick.ui.LighterMessageIntentActivity} enabled state: 2 from null,uid=10193,pid=3029
+10-01 12:10:37.473  3029 15455 I MdiSyncModule: flag handling is skipping irrelevant intent.
+10-01 12:10:37.475  3029 15452 I GmsSyncPolicyEngine: (REDACTED) Periodic sync %d disabled by policy, cancelled.
+10-01 12:10:37.475  3029 15452 I GmsSyncPolicyEngine: (REDACTED) Periodic sync %d disabled by policy, cancelled.
+10-01 12:10:37.476  3029 15452 I GmsSyncPolicyEngine: (REDACTED) Periodic sync %d disabled by policy, cancelled.
+10-01 12:10:37.478  1515  3439 D PackageManager: set app  component=ComponentInfo{com.google.android.gms/com.google.android.gms.wallet.service.WalletGcmTaskService} enabled state: 1 from null,uid=10193,pid=3029
+10-01 12:10:37.478  3029 15458 I SystemUpdate: [Installation,ReceiverIntentOperation] Received intent: Intent { act=com.google.gservices.intent.action.GSERVICES_CHANGED flg=0x1000010 pkg=com.google.android.gms cmp=com.google.android.gms/.chimera.GmsIntentOperationService }.
+10-01 12:10:37.479 13995 13995 W BpBinder: Slow Binder: BpBinder transact took 381 ms, interface=com.google.android.ims.rcsmigration.IRcsStateProvider, code=1 oneway=false
+10-01 12:10:37.480 13995 13995 E FileUtils: err write to mi_exception_log
+10-01 12:10:37.492  4097  4670 I BugleRcsEngine: getConfigServerUrl without simId [CONTEXT log_prefix="ProvisioningServerUtil" thread_id=61 ]
+10-01 12:10:37.493  1515  3488 D PackageManager: set app  component=ComponentInfo{com.google.android.gms/com.google.android.gms.ocr.SecuredCreditCardOcrActivity} enabled state: 1 from null,uid=10193,pid=3029
+10-01 12:10:37.496  3029 15450 W DynamiteModule: Local module descriptor class for com.google.android.gms.vision.dynamite.ocr not found.
+10-01 12:10:37.496  3029 15450 W ProviderHelper: Unknown dynamite feature vision.dynamite.ocr
+10-01 12:10:37.497  3029 15450 I DynamiteModule: Considering local module com.google.android.gms.vision.dynamite.ocr:0 and remote module com.google.android.gms.vision.dynamite.ocr:0
+10-01 12:10:37.497  3029 15450 I DynamiteModule: Considering local module com.google.android.gms.vision.ocr:0 and remote module com.google.android.gms.vision.ocr:250832000
+10-01 12:10:37.497  3029 15450 I DynamiteModule: Selected remote version of com.google.android.gms.vision.ocr, version >= 250832000
+10-01 12:10:37.510  3029 15514 I GmsDebugLogger: [89] vision.dynamite.ocr
+10-01 12:10:37.521  3029 15452 I SystemUpdate: [Execution,InstallationEventIntentOperation] Handling event of type 2.
+10-01 12:10:37.521   594   594 I hwservicemanager: getTransport: Cannot find entry android.hardware.configstore@1.0::ISurfaceFlingerConfigs/default in either framework or device VINTF manifest.
+10-01 12:10:37.531  1515  3439 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 2
+10-01 12:10:37.531  1515  3439 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 3
+10-01 12:10:37.536  3029 15452 I SystemUpdate: [Execution,InstallationIntentOperation] Received intent: Intent { act=com.google.android.gms.update.INSTALL_UPDATE cat=[targeted_intent_op_prefix:.update.execution.InstallationIntentOperation] cmp=com.google.android.gms/.chimera.GmsIntentOperationService (has extras) }.
+10-01 12:10:37.537  3029 15452 I SystemUpdate: [Execution,ExecutionManager] Start action execution: finished-execution
+10-01 12:10:37.537  3029 15452 I SystemUpdate: [Execution,ExecutionManager] Action finished-execution executed for 0.00 seconds.
+10-01 12:10:37.537  3029 15450 I DynamiteModule: Considering local module com.google.android.gms.mlkit_ocr_common:0 and remote module com.google.android.gms.mlkit_ocr_common:250832000
+10-01 12:10:37.537  3029 15450 I DynamiteModule: Selected remote version of com.google.android.gms.mlkit_ocr_common, version >= 250832000
+10-01 12:10:37.538  4097  4670 I BugleRcsEngine: Using MCC based URL [CONTEXT log_prefix="ProvisioningServerUtil" thread_id=61 ]
+10-01 12:10:37.545  1515  3488 D PackageManager: set app  component=ComponentInfo{com.google.android.gms/com.google.android.gms.ocr.GiftCardOcrActivity} enabled state: 1 from null,uid=10193,pid=3029
+10-01 12:10:37.545  3029 15450 I OcrModelUpStIntentOp: Downloading text recognizer
+10-01 12:10:37.565  1515  3488 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 2
+10-01 12:10:37.565  1515  3488 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 3
+10-01 12:10:37.571  3029  3049 E FileUtils: err open mi_exception_log errno=2
+10-01 12:10:37.571  3029  3049 E FileUtils: err write to mi_exception_log
+10-01 12:10:37.576  3029  3029 D BoundBrokerSvc: onRebind: Intent { act=com.google.android.gms.chimera.container.moduleinstall.ModuleInstallService.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.GmsApiService }
+10-01 12:10:37.582  3029  3029 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.ocr.service.internal.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.GmsInternalApiService }
+10-01 12:10:37.582  3029  3029 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.ocr.service.internal.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.GmsInternalApiService }
+10-01 12:10:37.598 14344 14388 I Finsky  : [98] UCtl: For package com.google.android.sdkext, first update discovery timestamp is set to 2025-03-14T07:20:50.223278Z
+10-01 12:10:37.600 14782 14886 D TrafficManageService: onReceive: intent.action = com.android.server.action.NETWORK_STATS_UPDATED
+10-01 12:10:37.608  4097  4670 I ProvisioningServerUtil: Getting mccmnc from SimPreferences.
+10-01 12:10:37.615  1515  4804 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 2
+10-01 12:10:37.615  1515  4804 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 3
+10-01 12:10:37.627  3029  3068 I GmsModuleFndr: Beginning GMS chimera module scan
+10-01 12:10:37.630  1515  4771 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 2
+10-01 12:10:37.630  1515  4771 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 3
+10-01 12:10:37.656 14344 14388 I Finsky  : [98] UCtl: For package com.google.ar.core, first update discovery timestamp is set to 2025-03-14T07:20:48.833278Z
+10-01 12:10:37.674  3029  3068 I ModuleSetResolution: Computing pending module set with APKs: [[AdsFdrDynamite.integ:250505301100000], [Antifingerprinting.optional:250832100000], [Appsearch.optional:250832100400], [BrellaDynamite.optional:250832100400], [Fastpair.optional:250832100000], [Games.optional:250832100000], [MapsCoreDynamite.integ:245125201100400], [MlkitDocscan.optional:250832100400], [MlkitDocscanStain.optional:250832100400], [MlkitDocscanUi.optional:250832100400], [MlkitOcrCommon.optional:250832100400], [NnapidriverArmMaliDynamite.integ:230700000100400], [PlayCloudSearch.optional:250832100000], [SidecarAps.integ:213016903100400], [TfliteDynamiteDynamite.integ:243930801100400], [TfliteGpuDynamiteDynamite.integ:243930801100400], [VisionBarcode.optional:250832100400], [VisionCustomIca.optional:250832100400], [VisionFace.optional:250832100400], [VisionIca.optional:250832100400], [VisionOcr.optional:250832100000], [Wasmlibs.optional:250832100400], [AdsFdrDynamite.integ:244410203100000], [PgsReleaseUnwrapped:517320240020400], [Cronetdynamite:250832190400], [Dynamiteloader:250832190000], [Dynamitemodulesa:250832190000], [Dynamitemodulesc:250832190000], [Googlecertificates:250832190000], [Mapsdynamite:250832190000], [Measurementdynamite:250832190000]]
+10-01 12:10:37.688 14344 14385 I Finsky  : [94] UCtl: For package com.google.android.apps.wellbeing, first update discovery timestamp is set to 2025-03-14T07:17:47.916Z
+10-01 12:10:37.708  1515  1971 I MiuiNetworkPolicy: updateUidState uid = 10115, uidState = 10
+10-01 12:10:37.708  1515  1971 I MiuiNetworkPolicy: updateUidState uid = 10085, uidState = 10
+10-01 12:10:37.721  1515  1971 I MiuiNetworkPolicy: updateUidState uid = 10115, uidState = 19
+10-01 12:10:37.721  1515  1971 I MiuiNetworkPolicy: updateUidState uid = 10085, uidState = 15
+10-01 12:10:37.732 14344 14372 W libc    : Access denied finding property "vendor.migl.debug"
+10-01 12:10:37.746 14344 14385 I Finsky  : [94] UCtl: For package com.google.android.adservices, first update discovery timestamp is set to 2024-09-27T07:52:47.839435Z
+10-01 12:10:37.747  3356  3821 E FileUtils: err open mi_exception_log errno=2
+10-01 12:10:37.747  3356  3821 E FileUtils: err write to mi_exception_log
+10-01 12:10:37.752  3356  4043 E FileUtils: err open mi_exception_log errno=2
+10-01 12:10:37.752  3356  4043 E FileUtils: err write to mi_exception_log
+10-01 12:10:37.761  3029  3068 I ModuleSetResolution: Pending container module APKs: [[Antifingerprinting.optional:250832100000], [Appsearch.optional:250832100400], [BrellaDynamite.optional:250832100400], [Fastpair.optional:250832100000], [Games.optional:250832100000], [MapsCoreDynamite.integ:245125201100400], [MlkitDocscan.optional:250832100400], [MlkitDocscanStain.optional:250832100400], [MlkitDocscanUi.optional:250832100400], [MlkitOcrCommon.optional:250832100400], [PlayCloudSearch.optional:250832100000], [VisionBarcode.optional:250832100400], [VisionCustomIca.optional:250832100400], [VisionFace.optional:250832100400], [VisionIca.optional:250832100400], [VisionOcr.optional:250832100000], [Wasmlibs.optional:250832100400]]
+10-01 12:10:37.761  3029  3068 I ModuleSetResolution: Pending non-container module APKs: [[TfliteDynamiteDynamite.integ:243930801100400], [TfliteGpuDynamiteDynamite.integ:243930801100400], [AdsFdrDynamite.integ:250505301100000], [NnapidriverArmMaliDynamite.integ:230700000100400]]
+10-01 12:10:37.775 14344 14388 I Finsky  : [98] UCtl: For package com.miui.player, first update discovery timestamp is set to 2025-03-14T07:17:45.667925Z
+10-01 12:10:37.776 14344 14388 I Finsky  : [98] UCtl: Package com.miui.player client staleness timestamp changed from 2025-03-14T07:17:47.969Z to 2025-03-14T07:17:47.969Z, available version changed from 0 to 5385 or in-app update priority changed from 0 to 0, Server update discovery timestamp is changed from 2025-03-14T07:17:45.667925Z to 2025-03-14T07:17:45.667925Z
+10-01 12:10:37.781 14344 15524 W DynamiteModule: Local module descriptor class for com.google.android.gms.measurement.dynamite not found.
+10-01 12:10:37.790 14344 14376 I Finsky  : [89] Start requesting FCM Reg Id
+10-01 12:10:37.801 13995 14028 I CarrierServices: [70] ezy.a:161 ProvisioningServerUtil: Using MCC based URL
+10-01 12:10:37.802  3029 15521 I SyncAdapter: Executing sync via SyncAdapter. [CONTEXT service_id=80 ]
+10-01 12:10:37.802  3029 15521 I SyncManager: (REDACTED) Executing sync(type=%s%s)
+10-01 12:10:37.807 14344 14372 E libMiGL : libmigl:This GPU version is note support Variable Shading Rate
+10-01 12:10:37.812  1404  1497 D connsyslogger: SD_LOG_ROOT is /data/debuglogger/connsyslog/fw.
+10-01 12:10:37.813  1404  1497 D connsyslogger: systemReady:1
+10-01 12:10:37.815 14344 14385 I Finsky  : [94] UCtl: For package com.google.android.tethering, first update discovery timestamp is set to 2025-03-14T07:20:50.223278Z
+10-01 12:10:37.835 14344 14388 I Finsky  : [98] UCtl: For package com.google.android.webview, first update discovery timestamp is set to 2025-10-01T09:08:34.451806Z
+10-01 12:10:37.838 14344 15524 W android.vending: ClassLoaderContext classpath size mismatch. expected=1, found=0 (DLC[];PCL[base.apk*2558597794]{PCL[/system/framework/org.apache.http.legacy.jar*1086658893]#PCL[/system/framework/com.android.media.remotedisplay.jar*3743104114]#PCL[/system/framework/com.android.location.provider.jar*3175360614]#PCL[/system/framework/org.apache.http.legacy.jar*1086658893]} | DLC[];PCL[])
+10-01 12:10:37.844 14344 15524 I android.vending: Waiting for a blocking GC ClassLinker
+10-01 12:10:37.845 14344 14376 I Finsky  : [89] UCtl: For package com.google.android.captiveportallogin, first update discovery timestamp is set to 2025-03-14T07:20:50.223278Z
+10-01 12:10:37.866 14344 14388 I Finsky  : [98] UCtl: For package com.google.android.extservices, first update discovery timestamp is set to 2025-03-14T07:20:50.223278Z
+10-01 12:10:37.879  3356  3821 E FileUtils: err open mi_exception_log errno=2
+10-01 12:10:37.879  3356  3821 E FileUtils: err write to mi_exception_log
+10-01 12:10:37.887 14344 15525 D TrafficStats: tagSocket(197) with statsTag=0x8003, statsUid=-1
+10-01 12:10:37.891 15261 15289 I SystemUpdate-Connection: isCallSuccess = true
+10-01 12:10:37.900 14344 14388 I Finsky  : [98] UCtl: For package com.google.android.partnersetup, first update discovery timestamp is set to 2025-10-01T09:08:34.451806Z
+10-01 12:10:37.908  2426  8923 E FileUtils: err open mi_exception_log errno=2
+10-01 12:10:37.908  2426  8923 E FileUtils: err write to mi_exception_log
+10-01 12:10:37.925  1515  4804 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 2
+10-01 12:10:37.925  1515  4804 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 3
+10-01 12:10:37.927  4097  4670 D BugleRcsEngine: log_saver already enabled
+10-01 12:10:37.928  1515  4804 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 2
+10-01 12:10:37.928  1515  4804 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 3
+10-01 12:10:37.931  1515  1543 D OomAdjuster: Not killing cached processes
+10-01 12:10:37.933 14344 14387 E FileUtils: err open mi_exception_log errno=2
+10-01 12:10:37.933 14344 14387 E FileUtils: err write to mi_exception_log
+10-01 12:10:37.940 14344 14376 I Finsky  : [89] UCtl: For package com.google.android.tts, first update discovery timestamp is set to 2025-10-01T09:08:34.451806Z
+10-01 12:10:37.947 13995 14028 D CarrierServices: log_saver already enabled
+10-01 12:10:37.957 13995 15535 I CarrierServices: [92] RcsStateSaver.saveRcsState:65 Saving RCS State
+10-01 12:10:37.957 13995 15535 I CarrierServices: [92] RcsStateSaver.saveRcsState:74 Old operation mode: 2
+10-01 12:10:37.958 13995 15535 I CarrierServices: [92] RcsStateSaver.saveRcsState:79 New operation mode: 2
+10-01 12:10:37.958 13995 13995 I CarrierServices: [2] RcsStateFetcher$1.onPostExecute:192 Finalizing migration for RCS state: Operation mode FULL STACK
+10-01 12:10:37.962  4097  8149 I BugleRcsEngine: Migration complete. [CONTEXT thread_id=161 ]
+10-01 12:10:37.963 13995 13995 I CarrierServices: [2] fqs.b:33 EngineBroadcaster: Broadcasting provisioning intent rcs.intent.action.csApkInitialized to Bugle with extras redacted-pii:[null] from source RCS_AUTO_START_RECEIVER
+10-01 12:10:37.963 15485 15490 W dex2oat64: Method void com.yandex.metrica.impl.ob.Ni.a(android.os.Bundle) failed lock verification and will run slower.
+10-01 12:10:37.963 15485 15490 W dex2oat64: Common causes for lock verification issues are non-optimized dex code
+10-01 12:10:37.963 15485 15490 W dex2oat64: and incorrect proguard optimizations.
+10-01 12:10:37.964 14344 14376 I Finsky  : [89] UCtl: For package com.google.android.apps.restore, first update discovery timestamp is set to 2025-10-01T09:08:34.451806Z
+10-01 12:10:37.970  4097 13763 I BugleRcsEngine: Rcs Engine should be running in cs.apk. Stopping JibeService. [CONTEXT thread_id=194 ]
+10-01 12:10:37.971  4097 13763 I RcsClientLib: Disconnecting EventService
+10-01 12:10:37.972 13995 13995 I CarrierServices: [2] RcsStateFetcher$GetRcsStateConnection.onFinish:159 Unbinding RcsMigrationService
+10-01 12:10:37.974 14344 14388 I Finsky  : [98] UCtl: For package com.xiaomi.midrop, first update discovery timestamp is set to 2025-10-01T09:08:34.554925Z
+10-01 12:10:37.974 14344 14388 I Finsky  : [98] UCtl: Package com.xiaomi.midrop client staleness timestamp changed from 2025-10-01T09:08:37.101Z to 2025-10-01T09:08:37.101Z, available version changed from 0 to 34607 or in-app update priority changed from 0 to 0, Server update discovery timestamp is changed from 2025-10-01T09:08:34.554925Z to 2025-10-01T09:08:34.554925Z
+10-01 12:10:37.975  4097 13763 W RcsClientLib: Unexpected error when trying to unbind com.google.android.ims.rcsservice.events.IEvent: Service not registered: ehtt@6d1d2b6
+10-01 12:10:37.975  4097 13763 W RcsClientLib: java.lang.IllegalArgumentException: Service not registered: ehtt@6d1d2b6
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at android.app.LoadedApk.forgetServiceDispatcher(LoadedApk.java:2042)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at android.app.ContextImpl.unbindService(ContextImpl.java:2086)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at android.content.ContextWrapper.unbindService(ContextWrapper.java:899)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at ehtr.h(PG:8)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at ehtr.disconnect(PG:25)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at com.google.android.rcs.client.events.EventService.disconnect(PG:4)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at cohr.n(PG:3)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at com.google.android.apps.messaging.rcsmigration.RcsStateProvider.$r8$lambda$FWM-xeGripR0_dMeQQlFKKAds0A(PG:120)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at ajfs.run(PG:3)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at elak.run(PG:21)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:487)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at erlr.a(PG:3)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at erko.run(PG:19)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at erls.run(PG:5)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at dtjp.run(PG:3)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at dtiw.run(PG:6)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at java.lang.Thread.run(Thread.java:1012)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at dtkq.run(PG:63)
+10-01 12:10:37.975  4097 13763 I RcsClientLib: Disconnecting ContactsService
+10-01 12:10:37.977  4097 13763 W RcsClientLib: Unexpected error when trying to unbind com.google.android.ims.rcsservice.contacts.IContactsManagement: Service not registered: ehtt@2f9ca8d
+10-01 12:10:37.977  4097 13763 W RcsClientLib: java.lang.IllegalArgumentException: Service not registered: ehtt@2f9ca8d
+10-01 12:10:37.977  4097 13763 W RcsClientLib: 	at android.app.LoadedApk.forgetServiceDispatcher(LoadedApk.java:2042)
+10-01 12:10:37.977  4097 13763 W RcsClientLib: 	at android.app.ContextImpl.unbindService(ContextImpl.java:2086)
+10-01 12:10:37.977  4097 13763 W RcsClientLib: 	at android.content.ContextWrapper.unbindService(ContextWrapper.java:899)
+10-01 12:10:37.977  4097 13763 W RcsClientLib: 	at ehtr.h(PG:8)
+10-01 12:10:37.977  4097 13763 W RcsClientLib: 	at ehtr.disconnect(PG:25)
+10-01 12:10:37.977  4097 13763 W RcsClientLib: 	at cohr.n(PG:8)
+10-01 12:10:37.977  4097 13763 W RcsClientLib: 	at com.google.android.apps.messaging.rcsmigration.RcsStateProvider.$r8$lambda$FWM-xeGripR0_dMeQQlFKKAds0A(PG:120)
+10-01 12:10:37.977  4097 13763 W RcsClientLib: 	at ajfs.run(PG:3)
+10-01 12:10:37.977  4097 13763 W RcsClientLib: 	at elak.run(PG:21)
+10-01 12:10:37.977  4097 13763 W RcsClientLib: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:487)
+10-01 12:10:37.977  4097 13763 W RcsClientLib: 	at erlr.a(PG:3)
+10-01 12:10:37.977  4097 13763 W RcsClientLib: 	at erko.run(PG:19)
+10-01 12:10:37.977  4097 13763 W RcsClientLib: 	at erls.run(PG:5)
+10-01 12:10:37.977  4097 13763 W RcsClientLib: 	at dtjp.run(PG:3)
+10-01 12:10:37.977  4097 13763 W RcsClientLib: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-01 12:10:37.977  4097 13763 W RcsClientLib: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-01 12:10:37.977  4097 13763 W RcsClientLib: 	at dtiw.run(PG:6)
+10-01 12:10:37.977  4097 13763 W RcsClientLib: 	at java.lang.Thread.run(Thread.java:1012)
+10-01 12:10:37.977  4097 13763 W RcsClientLib: 	at dtkq.run(PG:63)
+10-01 12:10:37.977  3029  3033 I gle.android.gms: Background young concurrent copying GC freed 21MB AllocSpace bytes, 44(1920KB) LOS objects, 40% free, 33MB/55MB, paused 11.535ms,69us total 283.276ms
+10-01 12:10:37.977  4097 13763 I RcsClientLib: Disconnecting FileTransferService
+10-01 12:10:37.978  4097 13763 W RcsClientLib: Unexpected error when trying to unbind com.google.android.ims.rcsservice.filetransfer.IFileTransfer: Service not registered: ehtt@938e990
+10-01 12:10:37.978  4097 13763 W RcsClientLib: java.lang.IllegalArgumentException: Service not registered: ehtt@938e990
+10-01 12:10:37.978  4097 13763 W RcsClientLib: 	at android.app.LoadedApk.forgetServiceDispatcher(LoadedApk.java:2042)
+10-01 12:10:37.978  4097 13763 W RcsClientLib: 	at android.app.ContextImpl.unbindService(ContextImpl.java:2086)
+10-01 12:10:37.978  4097 13763 W RcsClientLib: 	at android.content.ContextWrapper.unbindService(ContextWrapper.java:899)
+10-01 12:10:37.978  4097 13763 W RcsClientLib: 	at ehtr.h(PG:8)
+10-01 12:10:37.978  4097 13763 W RcsClientLib: 	at ehtr.disconnect(PG:25)
+10-01 12:10:37.978  4097 13763 W RcsClientLib: 	at cohr.n(PG:13)
+10-01 12:10:37.978  4097 13763 W RcsClientLib: 	at com.google.android.apps.messaging.rcsmigration.RcsStateProvider.$r8$lambda$FWM-xeGripR0_dMeQQlFKKAds0A(PG:120)
+10-01 12:10:37.978  4097 13763 W RcsClientLib: 	at ajfs.run(PG:3)
+10-01 12:10:37.978  4097 13763 W RcsClientLib: 	at elak.run(PG:21)
+10-01 12:10:37.978  4097 13763 W RcsClientLib: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:487)
+10-01 12:10:37.978  4097 13763 W RcsClientLib: 	at erlr.a(PG:3)
+10-01 12:10:37.978  4097 13763 W RcsClientLib: 	at erko.run(PG:19)
+10-01 12:10:37.978  4097 13763 W RcsClientLib: 	at erls.run(PG:5)
+10-01 12:10:37.978  4097 13763 W RcsClientLib: 	at dtjp.run(PG:3)
+10-01 12:10:37.978  4097 13763 W RcsClientLib: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-01 12:10:37.978  4097 13763 W RcsClientLib: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-01 12:10:37.978  4097 13763 W RcsClientLib: 	at dtiw.run(PG:6)
+10-01 12:10:37.978  4097 13763 W RcsClientLib: 	at java.lang.Thread.run(Thread.java:1012)
+10-01 12:10:37.978  4097 13763 W RcsClientLib: 	at dtkq.run(PG:63)
+10-01 12:10:37.979  4097 13763 I RcsClientLib: Disconnecting LocationSharingService
+10-01 12:10:37.980  4097 15536 I Bugle   : BroadcastReceiverAsyncWorkTracker: Acknowledging broadcast of com.google.android.apps.messaging.rcsprovisioning.RcsProvisioningBroadcastReceiver@bc98dec
+10-01 12:10:37.980  4097 13763 W RcsClientLib: Unexpected error when trying to unbind com.google.android.ims.rcsservice.locationsharing.ILocationSharing: Service not registered: ehtt@3170aaf
+10-01 12:10:37.980  4097 13763 W RcsClientLib: java.lang.IllegalArgumentException: Service not registered: ehtt@3170aaf
+10-01 12:10:37.980  4097 13763 W RcsClientLib: 	at android.app.LoadedApk.forgetServiceDispatcher(LoadedApk.java:2042)
+10-01 12:10:37.980  4097 13763 W RcsClientLib: 	at android.app.ContextImpl.unbindService(ContextImpl.java:2086)
+10-01 12:10:37.980  4097 13763 W RcsClientLib: 	at android.content.ContextWrapper.unbindService(ContextWrapper.java:899)
+10-01 12:10:37.980  4097 13763 W RcsClientLib: 	at ehtr.h(PG:8)
+10-01 12:10:37.980  4097 13763 W RcsClientLib: 	at ehtr.disconnect(PG:25)
+10-01 12:10:37.980  4097 13763 W RcsClientLib: 	at cohr.n(PG:18)
+10-01 12:10:37.980  4097 13763 W RcsClientLib: 	at com.google.android.apps.messaging.rcsmigration.RcsStateProvider.$r8$lambda$FWM-xeGripR0_dMeQQlFKKAds0A(PG:120)
+10-01 12:10:37.980  4097 13763 W RcsClientLib: 	at ajfs.run(PG:3)
+10-01 12:10:37.980  4097 13763 W RcsClientLib: 	at elak.run(PG:21)
+10-01 12:10:37.980  4097 13763 W RcsClientLib: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:487)
+10-01 12:10:37.980  4097 13763 W RcsClientLib: 	at erlr.a(PG:3)
+10-01 12:10:37.980  4097 13763 W RcsClientLib: 	at erko.run(PG:19)
+10-01 12:10:37.980  4097 13763 W RcsClientLib: 	at erls.run(PG:5)
+10-01 12:10:37.980  4097 13763 W RcsClientLib: 	at dtjp.run(PG:3)
+10-01 12:10:37.980  4097 13763 W RcsClientLib: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-01 12:10:37.980  4097 13763 W RcsClientLib: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-01 12:10:37.980  4097 13763 W RcsClientLib: 	at dtiw.run(PG:6)
+10-01 12:10:37.980  4097 13763 W RcsClientLib: 	at java.lang.Thread.run(Thread.java:1012)
+10-01 12:10:37.980  4097 13763 W RcsClientLib: 	at dtkq.run(PG:63)
+10-01 12:10:37.980  4097 13763 I RcsClientLib: Disconnecting ImsConnectionTrackerService
+10-01 12:10:37.982  4097 13763 W RcsClientLib: Unexpected error when trying to unbind com.google.android.ims.rcsservice.ims.IImsConnectionTracker: Service not registered: ehtt@99a399a
+10-01 12:10:37.982  4097 13763 W RcsClientLib: java.lang.IllegalArgumentException: Service not registered: ehtt@99a399a
+10-01 12:10:37.982  4097 13763 W RcsClientLib: 	at android.app.LoadedApk.forgetServiceDispatcher(LoadedApk.java:2042)
+10-01 12:10:37.982  4097 13763 W RcsClientLib: 	at android.app.ContextImpl.unbindService(ContextImpl.java:2086)
+10-01 12:10:37.982  4097 13763 W RcsClientLib: 	at android.content.ContextWrapper.unbindService(ContextWrapper.java:899)
+10-01 12:10:37.982  4097 13763 W RcsClientLib: 	at ehtr.h(PG:8)
+10-01 12:10:37.982  4097 13763 W RcsClientLib: 	at ehtr.disconnect(PG:25)
+10-01 12:10:37.982  4097 13763 W RcsClientLib: 	at cohr.n(PG:23)
+10-01 12:10:37.982  4097 13763 W RcsClientLib: 	at com.google.android.apps.messaging.rcsmigration.RcsStateProvider.$r8$lambda$FWM-xeGripR0_dMeQQlFKKAds0A(PG:120)
+10-01 12:10:37.982  4097 13763 W RcsClientLib: 	at ajfs.run(PG:3)
+10-01 12:10:37.982  4097 13763 W RcsClientLib: 	at elak.run(PG:21)
+10-01 12:10:37.982  4097 13763 W RcsClientLib: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:487)
+10-01 12:10:37.982  4097 13763 W RcsClientLib: 	at erlr.a(PG:3)
+10-01 12:10:37.982  4097 13763 W RcsClientLib: 	at erko.run(PG:19)
+10-01 12:10:37.982  4097 13763 W RcsClientLib: 	at erls.run(PG:5)
+10-01 12:10:37.982  4097 13763 W RcsClientLib: 	at dtjp.run(PG:3)
+10-01 12:10:37.982  4097 13763 W RcsClientLib: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-01 12:10:37.982  4097 13763 W RcsClientLib: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-01 12:10:37.982  4097 13763 W RcsClientLib: 	at dtiw.run(PG:6)
+10-01 12:10:37.982  4097 13763 W RcsClientLib: 	at java.lang.Thread.run(Thread.java:1012)
+10-01 12:10:37.982  4097 13763 W RcsClientLib: 	at dtkq.run(PG:63)
+10-01 12:10:37.982  4097 13763 I RcsClientLib: Disconnecting RcsProfileService
+10-01 12:10:37.983  4097 13763 W RcsClientLib: Unexpected error when trying to unbind com.google.android.ims.rcsservice.profile.IRcsProfile: Service not registered: ehtt@2385aa8
+10-01 12:10:37.983  4097 13763 W RcsClientLib: java.lang.IllegalArgumentException: Service not registered: ehtt@2385aa8
+10-01 12:10:37.983  4097 13763 W RcsClientLib: 	at android.app.LoadedApk.forgetServiceDispatcher(LoadedApk.java:2042)
+10-01 12:10:37.983  4097 13763 W RcsClientLib: 	at android.app.ContextImpl.unbindService(ContextImpl.java:2086)
+10-01 12:10:37.983  4097 13763 W RcsClientLib: 	at android.content.ContextWrapper.unbindService(ContextWrapper.java:899)
+10-01 12:10:37.983  4097 13763 W RcsClientLib: 	at ehtr.h(PG:8)
+10-01 12:10:37.983  4097 13763 W RcsClientLib: 	at ehtr.disconnect(PG:25)
+10-01 12:10:37.983  4097 13763 W RcsClientLib: 	at cohr.n(PG:28)
+10-01 12:10:37.983  4097 13763 W RcsClientLib: 	at com.google.android.apps.messaging.rcsmigration.RcsStateProvider.$r8$lambda$FWM-xeGripR0_dMeQQlFKKAds0A(PG:120)
+10-01 12:10:37.983  4097 13763 W RcsClientLib: 	at ajfs.run(PG:3)
+10-01 12:10:37.983  4097 13763 W RcsClientLib: 	at elak.run(PG:21)
+10-01 12:10:37.983  4097 13763 W RcsClientLib: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:487)
+10-01 12:10:37.983  4097 13763 W RcsClientLib: 	at erlr.a(PG:3)
+10-01 12:10:37.983  4097 13763 W RcsClientLib: 	at erko.run(PG:19)
+10-01 12:10:37.983  4097 13763 W RcsClientLib: 	at erls.run(PG:5)
+10-01 12:10:37.983  4097 13763 W RcsClientLib: 	at dtjp.run(PG:3)
+10-01 12:10:37.983  4097 13763 W RcsClientLib: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-01 12:10:37.983  4097 13763 W RcsClientLib: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-01 12:10:37.983  4097 13763 W RcsClientLib: 	at dtiw.run(PG:6)
+10-01 12:10:37.983  4097 13763 W RcsClientLib: 	at java.lang.Thread.run(Thread.java:1012)
+10-01 12:10:37.983  4097 13763 W RcsClientLib: 	at dtkq.run(PG:63)
+10-01 12:10:37.984  4097 13763 I RcsClientLib: Disconnecting RcsMessagingService
+10-01 12:10:37.985  4097 13763 W RcsClientLib: Unexpected error when trying to unbind com.google.android.rcs.client.messaging.IMessaging: Service not registered: ehtt@f77a0a7
+10-01 12:10:37.985  4097 13763 W RcsClientLib: java.lang.IllegalArgumentException: Service not registered: ehtt@f77a0a7
+10-01 12:10:37.985  4097 13763 W RcsClientLib: 	at android.app.LoadedApk.forgetServiceDispatcher(LoadedApk.java:2042)
+10-01 12:10:37.985  4097 13763 W RcsClientLib: 	at android.app.ContextImpl.unbindService(ContextImpl.java:2086)
+10-01 12:10:37.985  4097 13763 W RcsClientLib: 	at android.content.ContextWrapper.unbindService(ContextWrapper.java:899)
+10-01 12:10:37.985  4097 13763 W RcsClientLib: 	at ehtr.h(PG:8)
+10-01 12:10:37.985  4097 13763 W RcsClientLib: 	at ehtr.disconnect(PG:25)
+10-01 12:10:37.985  4097 13763 W RcsClientLib: 	at cohr.n(PG:33)
+10-01 12:10:37.985  4097 13763 W RcsClientLib: 	at com.google.android.apps.messaging.rcsmigration.RcsStateProvider.$r8$lambda$FWM-xeGripR0_dMeQQlFKKAds0A(PG:120)
+10-01 12:10:37.985  4097 13763 W RcsClientLib: 	at ajfs.run(PG:3)
+10-01 12:10:37.985  4097 13763 W RcsClientLib: 	at elak.run(PG:21)
+10-01 12:10:37.985  4097 13763 W RcsClientLib: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:487)
+10-01 12:10:37.985  4097 13763 W RcsClientLib: 	at erlr.a(PG:3)
+10-01 12:10:37.985  4097 13763 W RcsClientLib: 	at erko.run(PG:19)
+10-01 12:10:37.985  4097 13763 W RcsClientLib: 	at erls.run(PG:5)
+10-01 12:10:37.985  4097 13763 W RcsClientLib: 	at dtjp.run(PG:3)
+10-01 12:10:37.985  4097 13763 W RcsClientLib: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-01 12:10:37.985  4097 13763 W RcsClientLib: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-01 12:10:37.985  4097 13763 W RcsClientLib: 	at dtiw.run(PG:6)
+10-01 12:10:37.985  4097 13763 W RcsClientLib: 	at java.lang.Thread.run(Thread.java:1012)
+10-01 12:10:37.985  4097 13763 W RcsClientLib: 	at dtkq.run(PG:63)
+10-01 12:10:37.986  4097 13763 W BugleRcs: disconnecting from all Rcs Services
+10-01 12:10:37.987  4097 13763 I BugleRcsEngine: JibeService stopped: false [CONTEXT thread_id=194 ]
+10-01 12:10:37.999  4097 13763 W RcsClientLib: Service is deprecated skipping connection attempt: EventService
+10-01 12:10:38.000  4097 13763 W RcsClientLib: Service is deprecated skipping connection attempt: ContactsService
+10-01 12:10:38.000  4097 13763 W RcsClientLib: Service is deprecated skipping connection attempt: FileTransferService
+10-01 12:10:38.001  4097 13763 W RcsClientLib: Service is deprecated skipping connection attempt: LocationSharingService
+10-01 12:10:38.001  4097 13763 W RcsClientLib: Service is deprecated skipping connection attempt: ImsConnectionTrackerService
+10-01 12:10:38.002  4097 13763 W RcsClientLib: Service is deprecated skipping connection attempt: RcsProfileService
+10-01 12:10:38.002  4097 13763 W RcsClientLib: Service is deprecated skipping connection attempt: RcsMessagingService
+10-01 12:10:38.003  4097 13763 I BugleRcs: connecting to 7 Rcs Services
+10-01 12:10:38.013  4097 13763 I RcsProvisioning: Failed to read config: no config found /data/user/0/com.google.android.apps.messaging/files/rcsconfig: open failed: ENOENT (No such file or directory)
+10-01 12:10:38.019  3029 15521 I SyncManager: (REDACTED) Executing sync(type=%s) finished in %s
+10-01 12:10:38.024 15261 15289 W PackageParser: Unknown element under <application>: property at /data/user/0/com.xiaomi.discover/files/market.apk Binary XML file line #134
+10-01 12:10:38.024 14344 14385 I Finsky  : [94] UCtl: For package com.google.android.resolv, first update discovery timestamp is set to 2025-03-14T07:20:50.223278Z
+10-01 12:10:38.026 15261 15289 W PackageParser: Unknown element under <application>: property at /data/user/0/com.xiaomi.discover/files/market.apk Binary XML file line #770
+10-01 12:10:38.037 15261 15289 I SystemUpdate-SelfUpdateService: start install
+10-01 12:10:38.039  3356  3821 E FileUtils: err open mi_exception_log errno=2
+10-01 12:10:38.039 15261 15289 I SystemUpdate-LocalAppManager: load local apps from system : begin
+10-01 12:10:38.039  3356  3821 E FileUtils: err write to mi_exception_log
+10-01 12:10:38.041  1515  1726 I SmartPower.com.android.chrome/10203(13043): idle->background(36601ms) R(broadcast start Intent { act=com.google.android.partnersetup.action.CONFIGURATION_UPDATE flg=0x1000010 pkg=com.android.chrome cmp=com.android.chrome/com.google.android.apps.chrome.rlz.RevenueStatsConfigurationUpdateReceiver (has extras) }) adj=0.
+10-01 12:10:38.042  1515  2035 I SmartPower: com.android.chrome/10203 state=hibernation adj=0 proc size=1 move to background broadcast start Intent { act=com.google.android.partnersetup.action.CONFIGURATION_UPDATE flg=0x1000010 pkg=com.android.chrome cmp=com.android.chrome/com.google.android.apps.chrome.rlz.RevenueStatsConfigurationUpdateReceiver (has extras) }
+10-01 12:10:38.042  1515  2035 I SmartPower: com.android.chrome/10203 state=background adj=0 proc size=1 move to inactive broadcast start Intent { act=com.google.android.partnersetup.action.CONFIGURATION_UPDATE flg=0x1000010 pkg=com.android.chrome cmp=com.android.chrome/com.google.android.apps.chrome.rlz.RevenueStatsConfigurationUpdateReceiver (has extras) }
+10-01 12:10:38.042 14344 14348 W android.vending: Suspending all threads took: 11.987ms
+10-01 12:10:38.047  1515  1971 I MiuiNetworkPolicy: updateUidState uid = 10203, uidState = 11
+10-01 12:10:38.053 14344 14388 I Finsky  : [98] UCtl: For package com.google.android.apps.photos, first update discovery timestamp is set to 2025-10-01T09:08:34.451806Z
+10-01 12:10:38.054 14344 14376 I Finsky  : [89] UCtl: For package com.android.chrome, first update discovery timestamp is set to 2025-10-01T09:08:34.451806Z
+10-01 12:10:38.058  1515  1971 I MiuiNetworkPolicy: updateUidState uid = 10203, uidState = 19
+10-01 12:10:38.072  1515  1543 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 2
+10-01 12:10:38.072  1515  1543 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 3
+10-01 12:10:38.093  1515  3423 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 2
+10-01 12:10:38.093  1515  3423 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 3
+10-01 12:10:38.111 14344 14388 I Finsky  : [98] UCtl: For package com.google.android.apps.safetyhub, first update discovery timestamp is set to 2025-10-01T09:08:34.451806Z
+10-01 12:10:38.113  2426  8923 E FileUtils: err open mi_exception_log errno=2
+10-01 12:10:38.114  2426  8923 E FileUtils: err write to mi_exception_log
+10-01 12:10:38.122 15261 15289 I SystemUpdate-LocalAppManager: load local apps from system : finish
+10-01 12:10:38.124 14344 14385 I Finsky  : [94] UCtl: For package com.google.android.adbd, first update discovery timestamp is set to 2025-03-14T07:20:50.223278Z
+10-01 12:10:38.126 15261 15289 W PackageParser: Unknown element under <application>: property at /data/user/0/com.xiaomi.discover/files/market.apk Binary XML file line #134
+10-01 12:10:38.128 15261 15289 W PackageParser: Unknown element under <application>: property at /data/user/0/com.xiaomi.discover/files/market.apk Binary XML file line #770
+10-01 12:10:38.135  4097 13763 I BugleRcsEngine: Deleted transfers file: false [CONTEXT thread_id=194 ]
+10-01 12:10:38.139  4097 13763 I RcsProvisioning: Failed to read config: no config found /data/user/0/com.google.android.apps.messaging/files/rcsconfig: open failed: ENOENT (No such file or directory)
+10-01 12:10:38.145  1515  3423 I InstallationTiming: beginInstall_sessionId: 1768191263
+10-01 12:10:38.145 15261 15289 I SystemUpdate-SessionInstaller: [Download/Install] create sessionId=1768191263 for com.xiaomi.discover
+10-01 12:10:38.146  1515  1543 I PowerHalWrapper: <setInstallationBoost> enable:true 
+10-01 12:10:38.146   911   925 I libPowerHal: [perfUserGetCapability] MTKPOWER_CMD_GET_INSTALL_MAX_DURATION cmd:110, time:90000 ms
+10-01 12:10:38.146   911   925 I libPowerHal: [perfUserGetCapability] MTKPOWER_CMD_GET_INSTALL_MAX_DURATION cmd:110, time:90000 ms
+10-01 12:10:38.148   911   996 I libPowerHal: [perfLockAcq] idx:1 hdl:348 hint:29 pid:911 duration:90000 lock_user:mtkpower@1.0-se => ret_hdl:348
+10-01 12:10:38.148 14344 14388 I Finsky  : [98] UCtl: For package com.google.android.youtube, first update discovery timestamp is set to 2025-10-01T09:08:34.451806Z
+10-01 12:10:38.151   911   996 I libPowerHal: [perfLockRel] hdl:347, idx:0
+10-01 12:10:38.155 15261 15289 I SystemUpdate-SessionInstaller: [Download/Install] install sessionId=1768191263 with [offsetBytes=0,splitBytes=15472191,apkPath=/data/user/0/com.xiaomi.discover/files/market.apk]
+10-01 12:10:38.158 14344 15524 I android.vending: WaitForGcToComplete blocked ClassLinker on Background for 313.720ms
+10-01 12:10:38.159  1515  3423 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 2
+10-01 12:10:38.159  1515  3423 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 3
+10-01 12:10:38.159 14344 15524 I DynamiteModule: Considering local module com.google.android.gms.measurement.dynamite:0 and remote module com.google.android.gms.measurement.dynamite:140
+10-01 12:10:38.160 14344 15524 I DynamiteModule: Selected remote version of com.google.android.gms.measurement.dynamite, version >= 140
+10-01 12:10:38.173  1515  1539 I system_server: Background young concurrent copying GC freed 22MB AllocSpace bytes, 6(112KB) LOS objects, 22% free, 77MB/100MB, paused 115us,928us total 162.835ms
+10-01 12:10:38.183 14344 15524 W System  : ClassLoader referenced unknown path: 
+10-01 12:10:38.184 14344 15524 D nativeloader: Configuring clns-6 for other apk . target_sdk_version=34, uses_libraries=, library_path=/data/app/~~PZMuPaM5EJ4wotAs_YJTKQ==/com.google.android.gms-hyiax8CVmuEMUhy0K8IpzA==/lib/arm64:/data/app/~~PZMuPaM5EJ4wotAs_YJTKQ==/com.google.android.gms-hyiax8CVmuEMUhy0K8IpzA==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/com.google.android.gms
+10-01 12:10:38.191 14344 14376 I Finsky  : [89] UCtl: For package com.google.android.apps.subscriptions.red, first update discovery timestamp is set to 2025-10-01T09:08:34.451806Z
+10-01 12:10:38.191  1515  6724 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 2
+10-01 12:10:38.191  1515  6724 D AlarmManagerService: inside native alarm timerfd set Alarm Type = 3
+10-01 12:10:38.195  1404  1498 D connsyslogger: data recycle:time out
+10-01 12:10:38.195  1404  1498 D connsyslogger: idx=0 Bootup Log: 2 log files! filecount=3 
+10-01 12:10:38.211  2426  8923 E FileUtils: err open mi_exception_log errno=2
+10-01 12:10:38.211  2426  8923 E FileUtils: err write to mi_exception_log
+10-01 12:10:38.225 14344 15524 W android.vending: ClassLoaderContext classpath element checksum mismatch. expected=2558597794, found=817229003 (DLC[];PCL[base.apk*2558597794]{PCL[/system/framework/org.apache.http.legacy.jar*1086658893]#PCL[/system/framework/com.android.media.remotedisplay.jar*3743104114]#PCL[/system/framework/com.android.location.provider.jar*3175360614]#PCL[/system/framework/org.apache.http.legacy.jar*1086658893]} | DLC[];PCL[/data/app/~~GEX_cQKzUXLE9Whb7pOOqg==/com.android.vending-jJw9BICD2eNFuFESRhRkug==/base.apk*817229003]{PCL[/system/framework/org.apache.http.legacy.jar*1086658893]})
+10-01 12:10:38.231 14344 14388 I Finsky  : [98] UCtl: For package com.google.android.os.statsd, first update discovery timestamp is set to 2024-09-27T07:52:47.839435Z
+10-01 12:10:38.239  3029  3068 W PackageParser: Unknown element under <manifest>: queries at /data/user_de/0/com.google.android.gms/app_chimera/m/000006a8/AdsDynamite.uncompressed.apk Binary XML file line #15
+10-01 12:10:38.246 14344 14376 I Finsky  : [89] UCtl: For package com.google.android.conscrypt, first update discovery timestamp is set to 2025-03-14T07:20:50.223278Z
+10-01 12:10:38.256 14344 14385 I Finsky  : [94] UCtl: For package com.netflix.mediaclient, first update discovery timestamp is set to 2025-10-01T09:08:34.933925Z
+10-01 12:10:38.256 14344 14385 I Finsky  : [94] UCtl: Package com.netflix.mediaclient client staleness timestamp changed from 2025-10-01T09:08:37.709Z to 2025-10-01T09:08:37.709Z, available version changed from 0 to 63444 or in-app update priority changed from 0 to 0, Server update discovery timestamp is changed from 2025-10-01T09:08:34.933925Z to 2025-10-01T09:08:34.933925Z
+10-01 12:10:38.284 14344 14376 I Finsky  : [89] UCtl: For package com.google.android.media, first update discovery timestamp is set to 2025-03-14T07:20:50.223278Z
+10-01 12:10:38.296  3029  3068 W PackageParser: Unknown element under <manifest>: queries at /data/user_de/0/com.google.android.gms/app_chimera/m/000006aa/dl-AdsFdrDynamite.integ_250505301100000.apk Binary XML file line #15
+10-01 12:10:38.303 14344 14388 I Finsky  : [98] UCtl: For package com.google.android.apps.maps, first update discovery timestamp is set to 2025-10-01T09:08:34.451806Z
+10-01 12:10:38.314  1515  1722 E FileUtils: err open mi_exception_log errno=2
+10-01 12:10:38.318  1515  1722 E FileUtils: err write to mi_exception_log
+10-01 12:10:38.322  1515  1971 I MiuiNetworkPolicy: updateUidState uid = 10185, uidState = 10
+10-01 12:10:38.325  1515  1971 I MiuiNetworkPolicy: updateUidState uid = 10185, uidState = 19
+10-01 12:10:38.328 14344 14376 I Finsky  : [89] UCtl: For package com.google.android.modulemetadata, first update discovery timestamp is set to 2025-03-14T07:20:50.223278Z
+10-01 12:10:38.332  1515  1971 I MiuiNetworkPolicy: updateUidState uid = 10093, uidState = 8
+10-01 12:10:38.352 14344 14385 I Finsky  : [94] UCtl: For package com.miui.videoplayer, first update discovery timestamp is set to 2025-10-01T09:08:34.876925Z
+10-01 12:10:38.352 14344 14385 I Finsky  : [94] UCtl: Package com.miui.videoplayer client staleness timestamp changed from 2025-10-01T09:08:37.766Z to 2025-10-01T09:08:37.766Z, available version changed from 0 to 2025091560 or in-app update priority changed from 0 to 0, Server update discovery timestamp is changed from 2025-10-01T09:08:34.876925Z to 2025-10-01T09:08:34.876925Z
+10-01 12:10:38.362  3356  3356 D WM-DelayedWorkTracker: Scheduling work 5e555a70-bbdc-4a26-a708-2047c148ef86
+10-01 12:10:38.362  3356  3356 D WM-GreedyScheduler: Starting tracking for 5e555a70-bbdc-4a26-a708-2047c148ef86
+10-01 12:10:38.364 15261 15289 I SystemUpdate-SessionInstaller: [Download/Install] session committed with totalBytes=15472191
+10-01 12:10:38.366  3356  4034 D WM-ConstraintTracker: BatteryNotLowTracker: initial state = true
+10-01 12:10:38.366  3356  4034 D WM-BrdcstRcvrCnstrntTrc: BatteryNotLowTracker: registering receiver
+10-01 12:10:45.813  4375  4375 W binder:4375_3: type=1400 audit(0.0:1427): avc: denied { read } for name="u:object_r:system_adbd_prop:s0" dev="tmpfs" ino=1260 scontext=u:r:gmscore_app:s0:c512,c768 tcontext=u:object_r:system_adbd_prop:s0 tclass=file permissive=0 app=com.google.android.gms

@@ -1,0 +1,12 @@
+--------- beginning of main
+10-01 12:10:36.858  3356  3821 S FileUtils: err write to mi_exception_log
+10-01 12:10:36.858  3356  3821 V FileUtils: err write to mi_exception_log
+10-01 12:10:36.858  3356  3821 D FileUtils: err write to mi_exception_log
+10-01 12:10:36.858  3356  3821 I FileUtils: err write to mi_exception_log
+10-01 12:10:36.858  3356  3821 W FileUtils: err write to mi_exception_log
+10-01 12:10:36.858  3356  3821 E FileUtils: err write to mi_exception_log
+10-01 12:10:36.858  3356  3821 F FileUtils: err write to mi_exception_log
+
+10-01 1:10:36.858  3356  3821 F FileUtils: err write to mi_exception_log
+
+10-01 12:10:36.858  3356  3821 I SmartPower.com.google.android.webview:sandboxed_process0:org.chromium.content.app.SandboxedProidle->died(561070ms) R(process died ) adj=800.
