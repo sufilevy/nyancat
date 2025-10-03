@@ -2,6 +2,7 @@
 
 use crate::prelude::*;
 
+mod input;
 mod log;
 mod parse;
 mod prelude;
