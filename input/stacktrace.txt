@@ -1,0 +1,25 @@
+10-01 12:10:37.975  4097 13763 W RcsClientLib: Unexpected error when trying to unbind com.google.android.ims.rcsservice.events.IEvent: Service not registered: ehtt@6d1d2b6
+10-01 12:10:37.975  4097 13763 W RcsClientLib: java.lang.IllegalArgumentException: Service not registered: ehtt@6d1d2b6
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at android.app.LoadedApk.forgetServiceDispatcher(LoadedApk.java:2042)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at android.app.ContextImpl.unbindService(ContextImpl.java:2086)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at android.content.ContextWrapper.unbindService(ContextWrapper.java:899)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at ehtr.h(PG:8)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at ehtr.disconnect(PG:25)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at com.google.android.rcs.client.events.EventService.disconnect(PG:4)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at cohr.n(PG:3)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at com.google.android.apps.messaging.rcsmigration.RcsStateProvider.$r8$lambda$FWM-xeGripR0_dMeQQlFKKAds0A(PG:120)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at ajfs.run(PG:3)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at elak.run(PG:21)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	... 13 more
+10-01 12:10:37.975  4097 13763 W RcsClientLib: Caused by: java.lang.IllegalArgumentException
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:487)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at erlr.a(PG:3)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at erko.run(PG:19)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at erls.run(PG:5)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at dtjp.run(PG:3)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at dtiw.run(PG:6)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at java.lang.Thread.run(Thread.java:1012)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	at dtkq.run(PG:63)
+10-01 12:10:37.975  4097 13763 W RcsClientLib: 	... 12 more
