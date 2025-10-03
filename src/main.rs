@@ -1,5 +1,9 @@
 #![allow(dead_code)]
 
-fn main() {
-    println!("Hello, world!");
+use crate::prelude::*;
+
+mod prelude;
+
+fn main() -> Result<()> {
+    Ok(())
 }
