@@ -13,3 +13,4 @@ chumsky = "0.11.1"
 time = { version = "0.3.44", features = ["parsing"] }
 time-macros = { version = "0.2.24", features = ["formatting"] }
 strum = { version = "0.27.2", features = ["derive"] }
+regex = "1.11.3"
