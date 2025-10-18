@@ -111,7 +111,7 @@ fn tag_and_message_parser<'src>() -> impl Parser<'src, &'src str, (String, Strin
             .split_once(": ")
             .ok_or(Rich::custom(input.span_since(&before), "missing ': ' after log tag"))?;
 
-        Ok((tag.trim().to_owned(), message.trim().to_owned()))
+        Ok((tag.trim().to_owned(), message.trim_end().to_owned()))
     })
 }
 
