@@ -2,6 +2,7 @@
 name = "nyancat"
 version = "0.1.0"
 edition = "2024"
+description = "Android Logcat output colorizer."
 
 [lints.clippy]
 pedantic = { level = "warn", priority = -1 }
@@ -18,3 +19,5 @@ lazy-regex = "3.4.2"
 colored = "3.0.0"
 nonempty-collections = "1.1.0"
 extend = "1.2.0"
+clap = { version = "4.5.51", features = ["derive"] }
+atty = "0.2.14"
