@@ -1,9 +1,11 @@
 #![allow(dead_code)]
 
 use anyhow::anyhow;
+use clap::Parser;
 
-use crate::{format::LogcatFormatter, parse::LogcatParser, prelude::*};
+use crate::{cli::Args, format::LogcatFormatter, parse::LogcatParser, prelude::*};
 
+mod cli;
 mod filter;
 mod format;
 mod input;
@@ -12,16 +14,19 @@ mod parse;
 mod prelude;
 
 fn main() -> Result<()> {
-    let parser = LogcatParser::new();
-    let formatter = LogcatFormatter::new();
+    let args = Args::parse();
+    dbg!(&args);
 
-    let full_input = include_str!("../input/logcat.txt");
-    let sanity_input = include_str!("../input/sanity.txt");
-    let stacktrace_input = include_str!("../input/stacktrace.txt");
-
-    process_input("Full", full_input, &parser, &formatter)?;
-    process_input("Stacktrace", stacktrace_input, &parser, &formatter)?;
-    process_input("Sanity", sanity_input, &parser, &formatter)?;
+    // let parser = LogcatParser::new();
+    // let formatter = LogcatFormatter::new();
+    //
+    // let full_input = include_str!("../input/logcat.txt");
+    // let sanity_input = include_str!("../input/sanity.txt");
+    // let stacktrace_input = include_str!("../input/stacktrace.txt");
+    //
+    // process_input("Full", full_input, &parser, &formatter)?;
+    // process_input("Stacktrace", stacktrace_input, &parser, &formatter)?;
+    // process_input("Sanity", sanity_input, &parser, &formatter)?;
 
     Ok(())
 }
