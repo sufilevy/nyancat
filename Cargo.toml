@@ -21,3 +21,4 @@ nonempty-collections = "1.1.0"
 extend = "1.2.0"
 clap = { version = "4.5.51", features = ["derive"] }
 atty = "0.2.14"
+bstr = "1.12.1"

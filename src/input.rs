@@ -6,6 +6,7 @@ use std::{
 };
 
 use anyhow::anyhow;
+use bstr::{ByteSlice, io::BufReadExt};
 
 use crate::prelude::*;
 
@@ -50,13 +51,14 @@ impl LogcatInput {
         Ok(Self::Process(BufReader::new(stdout)))
     }
 
-    fn read_lines_from<'a>(
-        input: impl BufRead + 'a,
+    fn read_lines_from(
+        input: impl BufRead + 'static,
         input_src: &'static str,
-    ) -> Box<dyn Iterator<Item = Result<String>> + 'a> {
-        let input = input
-            .lines()
-            .map(move |line| line.map_err(|e| anyhow!("failed to read line from {input_src}: {e}")));
-        Box::new(input)
+    ) -> Box<dyn Iterator<Item = Result<String>>> {
+        let lines = input.byte_lines().map(move |line| match line {
+            Ok(line) => Ok(line.to_str_lossy().into_owned()),
+            Err(e) => Err(anyhow!("failed to read line from {input_src}: {e}")),
+        });
+        Box::new(lines)
     }
 }

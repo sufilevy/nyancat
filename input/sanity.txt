@@ -6,6 +6,7 @@
 10-01 12:10:36.858  3356  3821 W FileUtils: err write to mi_exception_log
 10-01 12:10:36.858  3356  3821 E FileUtils: err write to mi_exception_log
 10-01 12:10:36.858  3356  3821 F FileUtils: err write to mi_exception_log
+10-01 12:10:36.858  3356  3821 F FileUtils: this is an invalid UTF-8 char: ÿ it works!
 
 10-01 1:10:36.858  3356  3821 F FileUtils: err write to mi_exception_log
 
